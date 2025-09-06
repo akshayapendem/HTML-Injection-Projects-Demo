@@ -13,7 +13,7 @@
 1.Open Kali linux and OWASP BWA should be running at the same time.
 2.then open Burpsuite and Firefox browser open.
 3.go to the website of OWASP BWA and choose Mutillidae II then choose HTML injection on User-agent-Field.
-## screenshot:Before Doing HTML-Injection on User-Sgent-Field
+## screenshot:Before Doing HTML-Injection on User-Agent-Field
 link:https://github.com/akshayapendem/HTML-Injection-Projects-Demo/blob/master/html%20User-agent%20-Field%20injection/before%20user-agent%20injection.png
 
 4.search to inject HTML code if the website (which is Mutillidae II in home Lab ) is vulnerable it shows injected code.
@@ -33,4 +33,5 @@ link:https://github.com/akshayapendem/HTML-Injection-Projects-Demo/blob/master/h
 5.edit the COOKIE value (ex:<meta http-equiv="refresh" content=10"; URL=http=https://WWW.google.com"/>)
 6. then exactly after 10 sec the page redirects to google.com.
 ## screenshot:After Successfully Doing HTML-Injection via Cookie injection
+link:https://github.com/akshayapendem/HTML-Injection-Projects-Demo/blob/master/html%20via%20cookie%20injection/successfull%20cookie%20injection%20is%20redirected.png
 ## Conclusion : successfully done the html injection projects and used only tools that are provided for practice but not on real websites.
