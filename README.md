@@ -13,9 +13,8 @@
 1.Open Kali linux and OWASP BWA should be running at the same time.
 2.then open Burpsuite and Firefox browser open.
 3.go to the website of OWASP BWA and choose Mutillidae II then choose HTML injection on User-agent-Field.
-## screenshot:[Before Doing HTML-Injection on User-Sgent-Field]
-link:
-html User-agent -Field injection/before user-agent injection.png
+## screenshot:Before Doing HTML-Injection on User-Sgent-Field
+link:https://github.com/akshayapendem/HTML-Injection-Projects-Demo/blob/master/html%20User-agent%20-Field%20injection/before%20user-agent%20injection.png
 
 4.search to inject HTML code if the website (which is Mutillidae II in home Lab ) is vulnerable it shows injected code.
 5.Ex : <h1><u>TEST</u></h1>
