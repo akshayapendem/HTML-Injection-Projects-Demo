@@ -20,6 +20,7 @@ link:https://github.com/akshayapendem/HTML-Injection-Projects-Demo/blob/master/h
 5.Ex : <h1><u>TEST</u></h1>
 6. if it shows TEST in underlined format then it is Vulnerable to html injection.
  ## Screenshot:After Successfully injecting HTML code into User-Agent-Field.
+ link:https://github.com/akshayapendem/HTML-Injection-Projects-Demo/blob/master/html%20User-agent%20-Field%20injection/before%20user-agent%20injection.png
 
 ## project-2:HTML via Cookie injection mutillidae II
 1..Open Kali linux and OWASP BWA should be running at the same time.
