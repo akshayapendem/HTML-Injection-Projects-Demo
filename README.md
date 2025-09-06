@@ -14,6 +14,7 @@
 2.then open Burpsuite and Firefox browser open.
 3.go to the website of OWASP BWA and choose Mutillidae II then choose HTML injection on User-agent-Field.
 ## screenshot:Before Doing HTML-Injection on User-Sgent-Field
+link:https://github.com/akshayapendem/HTML-Injection-Projects-Demo/blob/master/html%20User-agent%20-Field%20injection/HTML%20injected%20in%20%20user-agent%20successfully.png
 
 4.search to inject HTML code if the website (which is Mutillidae II in home Lab ) is vulnerable it shows injected code.
 5.Ex : <h1><u>TEST</u></h1>
