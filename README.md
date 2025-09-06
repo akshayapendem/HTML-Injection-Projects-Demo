@@ -27,6 +27,7 @@ link:https://github.com/akshayapendem/HTML-Injection-Projects-Demo/blob/master/h
 2.then open Burpsuite and Firefox browser open.
 3.go to the website of OWASP BWA and choose Mutillidae II then choose HTML injection via Cookie injection.
 ## screenshot:Before Doing HTML-Injection via Cookie injection
+link:https://github.com/akshayapendem/HTML-Injection-Projects-Demo/blob/master/html%20via%20cookie%20injection/before%20cookie%20injection.png
 
 4.pass the request through burpsuite by keeping the intercept ON.
 5.edit the COOKIE value (ex:<meta http-equiv="refresh" content=10"; URL=http=https://WWW.google.com"/>)
